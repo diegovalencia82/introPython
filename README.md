@@ -1,0 +1,2 @@
+# introPython
+Introducción a Python para reconocer los elementos para realizar programas que le permitan desarrollar cálculos numéricos. En particular, debe conocer los siguientes elementos del lenguaje: Tipos de variable que soporta, tipos de operaciones entre las variables, cómo se realiza el control de flujo de un programa, la definición y aplicación de funciones, y la elaboración de gráficas. 
